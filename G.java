@@ -35,4 +35,8 @@ public class G implements B, E {
     public Object pp() {
         return this;
     }
+
+    public byte oo() {
+        return 4;
+    }
 }

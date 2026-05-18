@@ -35,4 +35,8 @@ public class H implements B, E {
     public int ae() {
         return 8;
     }
+
+    public long ac() {
+        return 222;
+    }
 }
