@@ -39,4 +39,8 @@ public class H implements B, E {
     public long ac() {
         return 222;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

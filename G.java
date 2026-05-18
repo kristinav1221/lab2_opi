@@ -39,4 +39,8 @@ public class G implements B, E {
     public byte oo() {
         return 4;
     }
+
+    public void aa() {
+        return;
+    }
 }
