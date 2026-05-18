@@ -1,0 +1,3 @@
+[submodule "test_2"]
+	path = test_2
+	url = https://github.com/kristinav1221/submodule_for_lab2_opi.git
