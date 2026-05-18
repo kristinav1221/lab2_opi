@@ -47,4 +47,8 @@ public class G extends null implements B, E {
     public double ee() {
         return 0.000001;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }

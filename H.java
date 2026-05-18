@@ -47,4 +47,8 @@ public class H extends null implements B, E {
     public int af() {
         return -1;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
