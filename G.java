@@ -1,4 +1,4 @@
-public class G implements B, E {
+public class G extends null implements B, E {
 
     private int i = 42;
 
@@ -42,5 +42,21 @@ public class G implements B, E {
 
     public void aa() {
         return;
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public Object rr() {
+        return null;
     }
 }
