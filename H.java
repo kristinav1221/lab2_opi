@@ -31,4 +31,8 @@ public class H implements B, E {
     public int cc() {
         return 42;
     }
+
+    public int ae() {
+        return 8;
+    }
 }
