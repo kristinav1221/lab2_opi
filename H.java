@@ -1,4 +1,4 @@
-public class H implements B, E {
+public class H extends null implements B, E {
 
     private double g = 100.500;
 
@@ -38,5 +38,13 @@ public class H implements B, E {
 
     public long ac() {
         return 222;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int af() {
+        return -1;
     }
 }
