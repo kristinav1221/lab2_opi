@@ -27,4 +27,8 @@ public class H implements B, E {
     public void bb() {
         System.out.println(42);
     }
+
+    public int cc() {
+        return 42;
+    }
 }
