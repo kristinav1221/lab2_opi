@@ -27,8 +27,4 @@ public class G implements B, E {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public int[] ii() {
-        return new int[]{4, 3, 2, 1};
-    }
 }
